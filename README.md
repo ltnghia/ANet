@@ -19,5 +19,8 @@ Please cite the following paper:
         Pages          = {45-56}, 
 }
 
+------------------
+The code is used for academic purpose only.
+
 Contact: [Trung-Nghia Le](https://sites.google.com/view/ltnghia).
 
